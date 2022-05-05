@@ -7,6 +7,11 @@ const About = (props) => {
       <div className="about">
         <h1>About This Project</h1>
         <p>This is a React app to leave feedback for a product or service</p>
+        <p>
+          This is not the full version of it, there are full version on github
+          with name "Feedback-app" that uses APIs http request to get, update
+          and delete the data from api
+        </p>
         <p>Version: 1.0.0</p>
 
         <p>
