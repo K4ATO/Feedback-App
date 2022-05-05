@@ -1,5 +1,5 @@
 ## About
-This is a React app to leave feedback for a product or service <a href="https://feedback-ui-application.netlify.app/" target="_blank">Feedback-app</a> which features add review comment,rating and edit or delete it.<br/>
+This is a React app to leave feedback for a product or service <a href="https://feedback-ui-application.netlify.app/" target="_blank">Feedback-app</a> which features add review comment,rating and edit or delete it with real time form validating.<br/>
 
 This project was built using ReactJs
 
